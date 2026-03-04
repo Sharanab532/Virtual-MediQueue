@@ -14,5 +14,3 @@ The Virtual Queue Management System seeks to alleviate this problem by digitizin
 - **Appointment Booking**: Patients can book appointments with doctors based on availability.
 - **Virtual Queue**: Real-time virtual queue management for doctors, visible to both admin and patients.
 - **WebSocket Integration**: WebSocket support for real-time updates to the virtual queue.
-
-- 
